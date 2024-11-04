@@ -57,9 +57,13 @@ accuracy
 
 ## Output:
 ![alt text](Image-1.png)
+
 ![alt text](Image-2.png)
+
 ![alt text](Image-3.png)
+
 ![alt text](Image-4.png)
+
 ![alt text](Image-5.png)
 
 ## Result:
